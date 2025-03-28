@@ -18,7 +18,7 @@
   
 </div>
 
-![snake gif](https://github.com/dudkodmytrii007/dudkodmytrii007/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/pritam-go-plus/pritam-go-plus/81be38b4a4e0388fc77bd85864243ca647bbcd50/github-contribution-grid-snake.svg)
 
 <h1 align=center>Contribution Chart</h1>
 
